@@ -1,0 +1,4 @@
+nivisa backend for pyvisa
+running on anaconda with spyder
+
+need keysight IO for any agilent usb-gpib cabels, but thsi is independent of the python code/software.
